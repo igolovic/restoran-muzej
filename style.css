@@ -1,0 +1,53 @@
+input[type="text"], textarea{ border:1px silver solid}
+input[type="text"]:focus, textarea:focus{ background-color:#CDE3EA}
+
+#footer{ display:inline-block; width:100%; height:30px; line-height:30px; text-align:center; font-family:Segoe UI; font-size:15px; color:white;}
+.notification{ font-family:Trebuchet MS; font-size:14px; width:700px; display:inline-block; padding:5px; margin-bottom:10px}
+
+img.g{ cursor:pointer; margin-left:auto; margin-right:auto; outline:none; max-height:325px; }
+
+#ac{position:relative; overflow:hidden; background-color:#CDE3EA; height:25px; width:858px; margin-bottom:5px; border:1px #9BC4D1 solid}
+#a1{position:absolute; text-align:center; width:500px; height:25px; line-height:25px; font-size:14px; font-family:Segoe UI; color:#004A00}
+font.an{ font-weight:bold; font-style:italic}
+a.an{ font-size:13px}
+
+span.msg{ display:inline-block; width:100px; float:left}
+input.msg{ width:100%; font-family:Trebuchet MS; font-size:13px; color:#004A00; }
+textarea.msg{ width:100%; height:150px; font-family:Trebuchet MS; font-size:13px; color:#004A00; }
+
+#ulLinks{ color:#004A00}
+li{ margin-top:10px;}
+
+.imgSmallFilm{ width:195px; height:122px; margin:8px 0px 8px 0px}
+.imgSmall{ width:200px; height:125px; margin-top:15px; margin-right:10px}
+
+.divLeftContainer{ float:left; vertical-align:top}
+.divRightContainer{ float:right; vertical-align:top}
+
+.spanSubTitle{ font-family:Segoe UI; font-size:21px; color:#004A00}
+
+#divMenu{ height:41px; overflow:auto}
+.divText{ width:840px; background-color:#CDE3EA; border:1px #9BC4D1 solid; padding:10px; font-family:Segoe UI; font-size:15px; color:black}
+.divTextSmaller{ width:600px; background-color:#CDE3EA; border:1px #9BC4D1 solid; padding:10px; font-family:Segoe UI; font-size:15px; color:black}
+.divTextSmaller2{ width:600px; background-color:#AECDC8; border:1px #9BC4D1 solid; padding:10px; font-family:Segoe UI; font-size:15px; color:black}
+.divTextSmaller3{ width:600px; background-image:url(images/bckg2.gif); background-repeat:repeat; border:1px #9BC4D1 solid; padding:10px; font-family:Segoe UI; font-size:15px; color:black}
+
+.divTextInside{ width:500px; margin-left:auto; margin-right:auto; margin-top:15px; background-color:#CDE3EA; border:2px #339966 solid; padding:10px; font-family:Segoe UI; font-size:15px; color:black}
+
+a {color:#004A00; font-family:Segoe UI; font-weight:bold; font-size:15px; text-align:center; text-decoration:underline}
+a:hover { text-decoration:none}
+
+a.header { outline:none; color:white; font-family:Segoe UI; font-weight:bold; display:inline-block; width:130px; height:36px; font-size:15px; text-align:center; text-decoration:underline}
+a.header:hover { text-decoration:none; background-color:#164F6D}
+
+span.me{ float:left; height:36px; width:140px; line-height:36px; margin-right:4px; margin-bottom:5px; text-align:center}
+
+#divHeader{ height:128px; vertical-align:top; border-bottom:5px #68858B solid; margin-bottom:5px; background-image:url(images/header_letters.png); background-position:center; background-repeat:no-repeat}
+#divLevel2Container{ height:100%; overflow:visible; width:860px; margin-left:auto; margin-right:auto; margin-top:20px}
+#divLevel1Container{ height:100%; overflow:visible; width:900px; margin-left:auto; margin-right:auto; background-color:white}
+
+body{ background-image:url(images/bckg.jpg); background-repeat:repeat; font-size:20px}
+
+td{ font-family:Segoe UI; font-size:15px; color:black; vertical-align:top; text-align:left; font-style:italic}
+p{ margin-top:0px; margin-bottom:8px}
+.tdContent{ padding:10px; background-color:#cde3ea; border:3px #9bc4d1 solid; background-image:url(images/logo2.gif); background-position:top right; background-repeat:no-repeat }

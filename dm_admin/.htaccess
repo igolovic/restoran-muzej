@@ -1,0 +1,5 @@
+Options All
+AuthType Basic
+AuthName "dm_admin"
+AuthUserFile "/home/restora6/.htpasswds/public_html/dm_admin/passwd"
+require valid-user
