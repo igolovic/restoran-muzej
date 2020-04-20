@@ -69,12 +69,11 @@ else
 	
 			$headers  = 'MIME-Version: 1.0' . "\r\n";
 			$headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-			if(mail("restoran.muzej@gmail.com", "Restoran Muzej - nova poruka", $message, $headers))
+			if(mail("dummy@dummy.dummy", "Restoran Muzej - nova poruka", $message, $headers))
 			{
 				$smarty->assign("mailMessage", "Poruka je uspješno poslana, hvala.");
 				$smarty->assign("mailMsgVisible", "inline-block");
-				mail("dragan.besker@gmail.com", "Restoran Muzej - nova poruka", $message, $headers);
-				mail("igolovic@gmail.com", "Restoran Muzej - nova poruka", $message, $headers);
+				mail("dummy@dummy.dummy", "Restoran Muzej - nova poruka", $message, $headers);
 			}
 			else
 			{

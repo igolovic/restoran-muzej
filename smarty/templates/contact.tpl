@@ -5,7 +5,7 @@
         Rezervacije se primaju na<br />
         tel.  01-4826-031,<br />
         fax. 01-4826-052,<br />
-        email: <a href="mailto:info@restoran-muzej.hr">info@restoran-muzej.hr</a>,<br />
+        email: <a href="mailto:dummy@dummy.dummy">dummy@dummy.dummy</a>,<br />
         preko kontakt obrasca<br />
         ili osobno u restoranu.<br />
         Zagreb, Trg maršala Tita 10<br /><br />
